@@ -27,7 +27,7 @@ Due to the fact that dummy data were used, the execution of the `.ipynb` files c
 <br/>
 
 ### **Complete stuff:**
-A comparative analysis of the performance of 3 different clustering algorithms in compuatational oncology context. <br/>
+An extensive analysis of the performance and the robustness of the k-NN algorithm computational oncology context. <br/>
 <br/>
 
 ### **Contributors:**
