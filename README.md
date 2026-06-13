@@ -1,5 +1,5 @@
 # Computational oncology project
-A python based implelentation of the evaluation of the robustness of kNN algorithm in computational oncology classification context.
+A python based implelentation of the evaluation and the robustness of kNN algorithm in computational oncology classification context.
 
 ## **Table of contents**
 - [General info](#general-info)
