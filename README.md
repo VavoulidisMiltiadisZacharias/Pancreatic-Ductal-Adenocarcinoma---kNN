@@ -8,7 +8,6 @@ A python based implelentation of the evaluation of the robustness of kNN algorit
 - [Complete stuff](#complete-stuff)
 - [Contributors](#contributors)
 - [Contact](#contact)
-
 <br/>
 
 ### **General info:**
