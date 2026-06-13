@@ -13,6 +13,7 @@ A python based implelentation of the evaluation of the robustness of kNN algorit
 
 ### **General info:**
 This is an evaluation of performance and robustness of the k-Nearest Neighbors (kNN) algorithm in the classification of pancreatic ductal adenocarcinoma samples under conditions of varying data noise using python. Feel free to download end edit the code.
+- *Keywords*: Computational Oncology, Pancreatic Ductal Adenocarcinoma (PDAC), k-Nearest Neighbors (k-NN), Algorithmic Robustness, Data Noise, Biomarkers, Recall Degradation
 <br/>
 
 ### **Setup:**
